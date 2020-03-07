@@ -1,0 +1,228 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-01-05T11:50:30.250Z,35.7673333,-117.588,6.13,1.07,ml,19,66,0.04892,0.17,ci,ci39024271,2020-01-05T11:54:19.614Z,"17km W of Searles Valley, CA",earthquake,0.32,0.82,0.117,13,automatic,ci,ci
+2020-01-05T11:39:15.260Z,38.8163338,-122.8216629,2.75,0.56,md,9,108,0.009489,0.02,nc,nc73323921,2020-01-05T11:54:02.395Z,"7km NW of The Geysers, CA",earthquake,0.36,0.69,,1,automatic,nc,nc
+2020-01-05T11:13:50.649Z,43.4531,-128.5888,10,3.7,ml,,238,2.504,0.57,us,us70006uz3,2020-01-05T11:38:13.040Z,"Off the coast of Oregon",earthquake,10.4,2,0.051,50,reviewed,us,us
+2020-01-05T11:12:07.840Z,35.8713333,-117.7,4.1,0.87,ml,19,72,0.08187,0.17,ci,ci39024263,2020-01-05T11:15:52.398Z,"20km ESE of Little Lake, CA",earthquake,0.3,0.86,0.115,12,automatic,ci,ci
+2020-01-05T11:04:20.480Z,38.8354988,-122.8274994,2.09,1.1,md,22,67,0.00696,0.03,nc,nc73323916,2020-01-05T11:19:02.206Z,"9km NW of The Geysers, CA",earthquake,0.22,0.46,0.15,4,automatic,nc,nc
+2020-01-05T11:03:28.970Z,35.6731682,-117.4881668,-0.48,1.66,ml,25,71,0.08903,0.25,ci,ci39024255,2020-01-05T11:07:32.965Z,"13km SW of Searles Valley, CA",earthquake,0.33,0.73,0.196,11,automatic,ci,ci
+2020-01-05T11:02:59.680Z,35.6826667,-117.489,1.05,1.45,ml,21,81,0.08292,0.19,ci,ci39024247,2020-01-05T11:13:54.740Z,"12km SW of Searles Valley, CA",earthquake,0.29,0.55,0.105,21,automatic,ci,ci
+2020-01-05T10:54:59.670Z,35.8705,-117.6988333,4.2,1.22,ml,22,57,0.08185,0.14,ci,ci39024239,2020-01-05T11:05:45.560Z,"20km ESE of Little Lake, CA",earthquake,0.24,0.61,0.174,19,automatic,ci,ci
+2020-01-05T10:54:14.460Z,36.1,-117.8446667,2.35,1.57,ml,16,101,0.01939,0.21,ci,ci39024231,2020-01-05T10:58:05.618Z,"11km ENE of Coso Junction, CA",earthquake,0.35,0.34,0.219,25,automatic,ci,ci
+2020-01-05T10:50:30.820Z,33.677,-116.7693333,11.09,0.15,ml,10,132,0.05724,0.09,ci,ci39024223,2020-01-05T10:54:02.089Z,"8km SSW of Idyllwild, CA",earthquake,0.33,0.45,0.116,4,automatic,ci,ci
+2020-01-05T10:24:11.704Z,59.6196,-152.3396,68,1.8,ml,,,,0.5,ak,ak0208fs8lt,2020-01-05T10:29:17.021Z,"33km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-01-05T10:19:46.620Z,19.3759995,-155.0896606,4.43,2.23,ml,53,140,0.01381,0.28,hv,hv71318857,2020-01-05T10:48:29.040Z,"18km S of Fern Acres, Hawaii",earthquake,0.46,0.42,2.29,15,automatic,hv,hv
+2020-01-05T10:15:28.530Z,19.2096672,-155.4481659,37.85,2.06,md,51,119,0.05531,0.13,hv,hv71318847,2020-01-05T10:18:48.260Z,"3km E of Pahala, Hawaii",earthquake,0.56,0.67,0.14,15,automatic,hv,hv
+2020-01-05T10:13:58.850Z,33.063,-116.4518333,5.93,0.64,ml,16,78,0.09734,0.27,ci,ci39024215,2020-01-05T10:17:43.213Z,"14km E of Julian, CA",earthquake,0.49,2.98,0.198,6,automatic,ci,ci
+2020-01-05T09:59:38.926Z,39.3968,72.6875,10,4.5,mb,,77,1.884,1.17,us,us70006uyr,2020-01-05T10:35:17.040Z,"60km SW of Sary-Tash, Kyrgyzstan",earthquake,3.6,1.9,0.124,19,reviewed,us,us
+2020-01-05T09:45:34.490Z,33.3315,-116.4058333,6.41,0.68,ml,24,68,0.06384,0.17,ci,ci39024207,2020-01-05T09:49:04.391Z,"9km NNW of Borrego Springs, CA",earthquake,0.26,0.76,0.092,13,automatic,ci,ci
+2020-01-05T09:41:56.750Z,38.8241653,-122.8111649,1.16,0.75,md,14,65,0.001148,0.03,nc,nc73323906,2020-01-05T11:33:04.283Z,"7km NW of The Geysers, CA",earthquake,0.23,0.64,0.15,2,automatic,nc,nc
+2020-01-05T09:28:04.370Z,33.5908333,-116.802,5.64,0.14,ml,11,116,0.03176,0.07,ci,ci39024199,2020-01-05T09:31:43.696Z,"12km WNW of Anza, CA",earthquake,0.25,0.42,0.179,6,automatic,ci,ci
+2020-01-05T09:24:22.050Z,35.6648333,-117.4886667,2.11,0.75,ml,13,138,0.06515,0.16,ci,ci39024191,2020-01-05T09:27:55.556Z,"14km SW of Searles Valley, CA",earthquake,0.48,0.62,0.179,7,automatic,ci,ci
+2020-01-05T09:23:51.130Z,35.8746667,-117.7241667,8.22,1.05,ml,23,61,0.0738,0.2,ci,ci39024183,2020-01-05T09:27:40.555Z,"18km ESE of Little Lake, CA",earthquake,0.3,0.98,0.208,14,automatic,ci,ci
+2020-01-05T09:04:48.420Z,37.6766663,-122.1556702,9.46,1.17,md,6,203,0.0555,0,nc,nc73323896,2020-01-05T11:06:02.117Z,"3km W of San Lorenzo, CA",earthquake,1.88,2.88,0.4,6,automatic,nc,nc
+2020-01-05T08:57:05.150Z,35.856,-117.6821667,2.6,0.87,ml,11,121,0.07966,0.23,ci,ci39024175,2020-01-05T09:00:33.338Z,"22km ESE of Little Lake, CA",earthquake,0.46,0.77,0.144,11,automatic,ci,ci
+2020-01-05T08:50:09.760Z,38.8408318,-122.822998,1.94,0.57,md,8,95,0.01381,0.01,nc,nc73323891,2020-01-05T10:39:03.964Z,"9km WNW of Cobb, CA",earthquake,0.45,1.14,,1,automatic,nc,nc
+2020-01-05T08:45:11.790Z,38.8413315,-122.8228302,1.96,0.89,md,8,118,0.01026,0.01,nc,nc73323886,2020-01-05T10:12:02.817Z,"9km WNW of Cobb, CA",earthquake,0.39,1.16,,1,automatic,nc,nc
+2020-01-05T08:38:33.950Z,35.8825,-117.704,13.67,0.69,ml,10,70,0.07845,0.14,ci,ci39024167,2020-01-05T08:42:09.188Z,"19km ESE of Little Lake, CA",earthquake,0.43,0.76,0.135,6,automatic,ci,ci
+2020-01-05T08:33:53.150Z,33.4841667,-116.7958333,8.16,1.05,ml,49,32,0.02838,0.18,ci,ci39024159,2020-01-05T08:37:37.251Z,"8km NE of Aguanga, CA",earthquake,0.18,0.59,0.096,26,automatic,ci,ci
+2020-01-05T08:32:11.270Z,38.8404999,-122.8233337,1.88,0.76,md,16,66,0.009681,0.02,nc,nc73323881,2020-01-05T09:44:02.664Z,"9km WNW of Cobb, CA",earthquake,0.23,0.62,0.15,2,automatic,nc,nc
+2020-01-05T08:29:00.169Z,18.39,-69.0227,113.67,4.4,mb,,72,0.521,0.78,us,us70006uyb,2020-01-05T09:03:36.245Z,"6km SW of La Romana, Dominican Republic",earthquake,6.4,5.8,0.102,28,reviewed,us,us
+2020-01-05T08:24:14.519Z,59.8145,-153.1514,116.1,2.2,ml,,,,0.49,ak,ak0208eldmp,2020-01-05T09:40:38.619Z,"74km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-05T08:20:50.610Z,35.6061667,-117.6018333,4.32,1.41,ml,27,83,0.03101,0.17,ci,ci39024151,2020-01-05T08:24:33.131Z,"7km ESE of Ridgecrest, CA",earthquake,0.22,0.49,0.295,21,automatic,ci,ci
+2020-01-05T08:20:47.040Z,33.2193333,-116.731,10.41,0.56,ml,22,56,0.02858,0.22,ci,ci39024143,2020-01-05T08:24:19.131Z,"4km SE of Lake Henshaw, CA",earthquake,0.42,0.73,0.149,10,automatic,ci,ci
+2020-01-05T08:20:01.120Z,33.2225,-116.7355,10.52,0.17,ml,17,65,0.07755,0.22,ci,ci39024135,2020-01-05T08:23:34.125Z,"3km SE of Lake Henshaw, CA",earthquake,0.47,0.92,0.174,4,automatic,ci,ci
+2020-01-05T08:14:07.127Z,60.4992,-141.2969,7.6,1.8,ml,,,,0.62,ak,ak0208ej7u2,2020-01-05T09:04:28.647Z,"79km NE of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-05T08:08:17.656Z,48.1182,155.0413,37.88,4.8,mb,,167,5.274,0.61,us,us70006uy7,2020-01-05T08:33:56.040Z,"295km SSW of Severo-Kuril'sk, Russia",earthquake,8.4,7.4,0.05,125,reviewed,us,us
+2020-01-05T08:01:39.439Z,60.598,-145.4198,22.2,1.7,ml,,,,0.33,ak,ak0208egi2f,2020-01-05T08:04:28.338Z,"19km ENE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-05T08:01:29.520Z,36.7312,-115.9918,3.7,-0.1,ml,10,232.45,0.028,0.28,nn,nn00714675,2020-01-05T08:21:57.128Z,"58km N of Pahrump, Nevada",earthquake,,2.2,,,automatic,nn,nn
+2020-01-05T07:57:44.590Z,36.9343,-116.1222,8.4,0.5,ml,13,116.82,0.113,0.18,nn,nn00714674,2020-01-05T08:03:17.825Z,"56km E of Beatty, Nevada",earthquake,,2.2,,,automatic,nn,nn
+2020-01-05T07:53:02.650Z,36.1111667,-117.905,2.91,0.91,ml,11,195,0.0411,0.13,ci,ci39024127,2020-01-05T07:56:36.960Z,"8km NNE of Coso Junction, CA",earthquake,0.5,0.63,0.184,9,automatic,ci,ci
+2020-01-05T07:47:10.240Z,36.1016655,-117.8755035,3.97,1.37,ml,15,169,0.02306,0.12,ci,ci39024119,2020-01-05T07:50:39.922Z,"9km NE of Coso Junction, CA",earthquake,0.38,0.47,0.135,3,automatic,ci,ci
+2020-01-05T07:45:47.758Z,-6.4076,129.1891,206.53,5,mb,,36,2.613,0.79,us,us70006uxt,2020-01-05T08:00:44.040Z,"290km NW of Saumlaki, Indonesia",earthquake,7.2,7,0.089,44,reviewed,us,us
+2020-01-05T07:44:22.070Z,33.5885,-116.8056667,5.16,0.64,ml,30,65,0.03508,0.14,ci,ci39024111,2020-01-05T07:48:03.904Z,"13km WNW of Anza, CA",earthquake,0.24,0.48,0.209,22,automatic,ci,ci
+2020-01-05T07:42:33.060Z,34.5313333,-118.5163333,7.92,1.63,ml,48,31,0.08949,0.25,ci,ci39024103,2020-01-05T07:46:22.901Z,"10km NNE of Valencia, CA",earthquake,0.32,1.39,0.218,27,automatic,ci,ci
+2020-01-05T07:34:56.280Z,35.6485,-117.5623333,7.18,0.89,ml,21,110,0.02697,0.15,ci,ci39024095,2020-01-05T07:38:41.695Z,"11km ENE of Ridgecrest, CA",earthquake,0.3,0.52,0.157,11,automatic,ci,ci
+2020-01-05T07:25:13.620Z,17.9165,-66.8923,7,2.79,md,14,217,0.06,0.15,pr,pr2020005001,2020-01-05T11:46:34.058Z,"12km SSE of Guanica, Puerto Rico",earthquake,0.58,0.28,0.33,13,reviewed,pr,pr
+2020-01-05T07:23:16.150Z,38.7840004,-122.7743301,1.79,1.79,md,36,86,0.01486,0.05,nc,nc73323856,2020-01-05T08:35:03.275Z,"2km WNW of The Geysers, CA",earthquake,0.18,0.36,0.17,9,automatic,nc,nc
+2020-01-05T07:21:07.881Z,-15.2531,-178.5662,417.23,4.3,mb,,39,4.081,1.02,us,us70006uxi,2020-01-05T07:45:09.040Z,"113km SSW of Sigave, Wallis and Futuna",earthquake,10,6.9,0.065,67,reviewed,us,us
+2020-01-05T07:18:17.940Z,35.6476667,-117.4613333,3.08,1.49,ml,27,82,0.05432,0.16,ci,ci39024087,2020-01-05T07:28:51.050Z,"14km SSW of Searles Valley, CA",earthquake,0.23,0.37,0.186,22,automatic,ci,ci
+2020-01-05T07:16:05.770Z,35.5598333,-117.3643333,8.69,0.77,ml,14,91,0.03481,0.2,ci,ci39024079,2020-01-05T07:19:34.089Z,"23km S of Trona, CA",earthquake,0.48,0.63,0.103,7,automatic,ci,ci
+2020-01-05T07:13:36.870Z,36.3963318,-121.3095016,1.42,2.59,md,4,165,0.09742,0.05,nc,nc73323851,2020-01-05T08:07:03.108Z,"4km SSE of Soledad, CA",earthquake,2.47,8.84,1.13,3,automatic,nc,nc
+2020-01-05T06:46:56.600Z,35.7601667,-117.5401667,11.36,0.9,ml,12,144,0.07245,0.19,ci,ci39024063,2020-01-05T06:50:39.591Z,"12km W of Searles Valley, CA",earthquake,0.5,0.93,0.143,9,automatic,ci,ci
+2020-01-05T06:31:09.255Z,-21.2939,171.3283,44.1,4.6,mb,,113,3.079,0.53,us,us70006ux7,2020-01-05T07:01:04.040Z,"143km NNW of Ile Hunter, New Caledonia",earthquake,9.9,9.1,0.112,24,reviewed,us,us
+2020-01-05T06:19:59.520Z,35.7403333,-117.5363333,6.3,0.94,ml,18,82,0.0902,0.16,ci,ci39024055,2020-01-05T06:23:46.028Z,"12km WSW of Searles Valley, CA",earthquake,0.36,1.1,0.128,11,automatic,ci,ci
+2020-01-05T06:09:08.700Z,33.9893333,-118.8763333,5.85,1.53,ml,22,215,0.09956,0.33,ci,ci39024047,2020-01-05T06:12:57.834Z,"6km WSW of Malibu, CA",earthquake,1.23,2.79,0.12,27,automatic,ci,ci
+2020-01-05T06:04:59.950Z,19.4223328,-154.9304962,-0.47,2.19,md,38,226,0.03511,0.22,hv,hv71318677,2020-01-05T06:39:37.480Z,"5km SSW of Leilani Estates, Hawaii",earthquake,0.71,0.28,0.13,26,automatic,hv,hv
+2020-01-05T05:56:28.760Z,33.5706667,-116.8238333,-0.1,0.17,ml,12,103,0.0549,0.27,ci,ci39024031,2020-01-05T06:00:06.798Z,"14km W of Anza, CA",earthquake,0.69,31.61,0.126,4,automatic,ci,ci
+2020-01-05T05:56:25.720Z,35.631,-117.4623333,8.37,0.63,ml,12,126,0.0399,0.17,ci,ci39024039,2020-01-05T06:00:07.799Z,"16km SSW of Searles Valley, CA",earthquake,0.6,0.84,0.046,7,automatic,ci,ci
+2020-01-05T05:45:41.851Z,63.1713,-151.2733,1.9,1.6,ml,,,,0.57,ak,ak0208cxmxv,2020-01-05T06:03:11.140Z,"111km NNW of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-01-05T05:39:25.080Z,38.8180008,-122.8223343,2.68,0.66,md,16,49,0.01057,0.02,nc,nc73323836,2020-01-05T06:58:03.708Z,"7km NW of The Geysers, CA",earthquake,0.34,0.64,0.08,2,automatic,nc,nc
+2020-01-05T05:39:15.930Z,38.8156662,-122.8225021,2.86,1.35,md,27,48,0.008561,0.04,nc,nc73323831,2020-01-05T06:31:03.547Z,"7km NW of The Geysers, CA",earthquake,0.21,0.45,0.15,5,automatic,nc,nc
+2020-01-05T05:37:31.940Z,19.1851673,-155.4850006,32.1,1.94,md,45,122,0.03666,0.11,hv,hv71318662,2020-01-05T05:40:36.040Z,"2km SSW of Pahala, Hawaii",earthquake,0.56,0.81,0.12,19,automatic,hv,hv
+2020-01-05T05:32:50.997Z,64.8236,-147.715,12.7,1.1,ml,,,,0.36,ak,ak0208cuvcb,2020-01-05T06:03:10.565Z,"1km S of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-05T05:24:35.700Z,32.7174988,-115.9221649,12.03,1.42,ml,10,194,0.06978,0.12,ci,ci39024023,2020-01-05T05:28:07.573Z,"7km ESE of Ocotillo, CA",earthquake,0.6,1.37,0.627,3,automatic,ci,ci
+2020-01-05T05:08:07.889Z,57.5663,-157.019,2.2,1.8,ml,,,,0.93,ak,ak0208cpmtw,2020-01-05T06:03:09.986Z,"126km S of King Salmon, Alaska",earthquake,,3,,,automatic,ak,ak
+2020-01-05T04:59:57.015Z,51.1768,-179.4184,50.76,4.9,mb,,129,0.829,0.89,us,us70006uww,2020-01-05T07:03:13.299Z,"23km WSW of Amatignak Island, Alaska",earthquake,8.5,7.2,0.031,320,reviewed,us,us
+2020-01-05T04:54:25.581Z,62.0995,-145.5133,24.5,1.4,ml,,,,0.65,ak,ak0208ce3j2,2020-01-05T05:03:11.673Z,"2km ESE of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-05T04:54:04.245Z,54.701,-156.8956,18.7,2.8,ml,,,,0.85,ak,ak0208ce3nu,2020-01-05T07:03:12.350Z,"149km SSW of Chirikof Island, Alaska",earthquake,,4.7,,,reviewed,ak,ak
+2020-01-05T04:53:26.540Z,35.5866667,-117.3686667,3.6,1.06,ml,15,115,0.06167,0.23,ci,ci39023999,2020-01-05T04:57:01.184Z,"20km S of Trona, CA",earthquake,0.5,1.35,0.158,10,automatic,ci,ci
+2020-01-05T04:48:14.541Z,64.7859,-149.1219,17.6,0.7,ml,,,,0.4,ak,ak0208ccsdg,2020-01-05T05:03:11.061Z,"23km N of North Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-05T04:46:14.650Z,19.4558334,-155.5531616,26.56,1.95,md,15,317,0.2253,0.31,hv,hv71318627,2020-01-05T04:56:34.407Z,"28km NNW of Pahala, Hawaii",earthquake,6.39,19.61,0.2,6,automatic,hv,hv
+2020-01-05T04:46:01.340Z,19.3125,-155.940506,7.04,2.82,ml,44,227,0.2332,0.29,hv,hv71318622,2020-01-05T07:21:33.699Z,"13km SSW of Honaunau-Napoopoo, Hawaii",earthquake,0.93,0.65,3.25,15,automatic,hv,hv
+2020-01-05T04:40:50.731Z,16.4222,-94.3471,97.24,5.8,mww,,84,2.949,1.09,us,us70006uwq,2020-01-05T10:57:32.427Z,"6km S of Santo Domingo Zanatepec, Mexico",earthquake,7.7,6.4,0.078,16,reviewed,us,us
+2020-01-05T04:36:36.617Z,60.5445,-152.1682,78.4,1.9,ml,,,,0.46,ak,ak0208ca9hp,2020-01-05T05:03:10.406Z,"32km ENE of Redoubt Volcano, Alaska",earthquake,,1,,,automatic,ak,ak
+2020-01-05T04:36:03.610Z,35.7236667,-117.5303333,2.73,0.83,ml,12,138,0.1062,0.18,ci,ci39023991,2020-01-05T04:39:46.333Z,"12km WSW of Searles Valley, CA",earthquake,0.33,0.45,0.138,9,automatic,ci,ci
+2020-01-05T04:32:53.206Z,64.7012,-17.7515,8.19,5,mb,,102,1.535,1.21,us,us70006uwl,2020-01-05T04:49:34.040Z,"110km S of Akureyri, Iceland",earthquake,8.5,4.8,0.044,167,reviewed,us,us
+2020-01-05T04:29:29.820Z,36.1336667,-117.866,3.11,1.35,ml,16,108,0.01841,0.11,ci,ci39023983,2020-01-05T04:33:08.290Z,"12km NE of Coso Junction, CA",earthquake,0.26,0.34,0.222,18,automatic,ci,ci
+2020-01-05T04:23:22.370Z,17.8958,-66.8231,5,2.74,md,14,219,0.0971,0.08,pr,pr2020005000,2020-01-05T05:28:31.040Z,"11km S of Indios, Puerto Rico",earthquake,0.65,0.37,0.47,11,reviewed,pr,pr
+2020-01-05T03:50:27.870Z,35.8523333,-117.6746667,3.65,1.05,ml,19,85,0.07255,0.15,ci,ci39023959,2020-01-05T03:54:09.742Z,"23km ESE of Little Lake, CA",earthquake,0.26,0.75,0.152,12,automatic,ci,ci
+2020-01-05T03:50:03.307Z,60.7003,-151.947,77.8,2.1,ml,,,,0.63,ak,ak0208brrbq,2020-01-05T04:03:11.024Z,"35km W of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-01-05T03:41:30.839Z,61.9506,-151.0998,66,1.6,ml,,,,0.45,ak,ak0208bpw0w,2020-01-05T04:03:10.450Z,"60km WNW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-01-05T03:40:51.710Z,35.6936667,-117.4223333,9.13,1.09,ml,22,75,0.11,0.18,ci,ci39023943,2020-01-05T03:44:36.979Z,"8km SSW of Searles Valley, CA",earthquake,0.37,0.81,0.157,12,automatic,ci,ci
+2020-01-05T03:35:56.270Z,35.782,-117.5958333,3.65,1.32,ml,29,66,0.0337,0.18,ci,ci39023935,2020-01-05T03:47:00.920Z,"17km W of Searles Valley, CA",earthquake,0.23,0.54,0.149,21,automatic,ci,ci
+2020-01-05T03:34:30.690Z,33.3803333,-116.4,9.85,1.47,ml,62,32,0.07774,0.22,ci,ci39023927,2020-01-05T03:38:17.353Z,"14km N of Borrego Springs, CA",earthquake,0.23,0.51,0.211,26,automatic,ci,ci
+2020-01-05T03:33:31.910Z,33.4876667,-116.8031667,5.67,0.49,ml,25,52,0.02475,0.13,ci,ci39023919,2020-01-05T03:37:16.007Z,"8km NE of Aguanga, CA",earthquake,0.21,0.77,0.133,15,automatic,ci,ci
+2020-01-05T03:29:00.490Z,36.5793343,-121.1776657,6.06,1.42,md,7,162,0.00984,0.02,nc,nc73323801,2020-01-05T04:52:03.950Z,"6km NNW of Pinnacles, CA",earthquake,0.41,0.74,0.19,6,automatic,nc,nc
+2020-01-05T03:27:52.510Z,36.5796661,-121.1744995,5.56,2.09,md,23,123,0.01184,0.06,nc,nc73323796,2020-01-05T04:22:03.772Z,"6km NNW of Pinnacles, CA",earthquake,0.3,0.55,0.3,22,automatic,nc,nc
+2020-01-05T03:16:57.490Z,38.8364983,-122.841835,1.57,1.24,md,20,109,0.005379,0.03,nc,nc73323791,2020-01-05T04:07:02.680Z,"10km NW of The Geysers, CA",earthquake,0.24,0.39,0.12,4,automatic,nc,nc
+2020-01-05T02:59:05.843Z,61.6317,-147.4515,24.8,1.6,ml,,,,0.84,ak,ak0208b89dk,2020-01-05T03:03:12.048Z,"76km ESE of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-01-05T02:58:24.990Z,33.989,-116.4038333,3.42,0.82,ml,21,100,0.04837,0.22,ci,ci39023895,2020-01-05T03:02:09.215Z,"10km ENE of Desert Hot Springs, CA",earthquake,0.36,0.84,0.082,26,automatic,ci,ci
+2020-01-05T02:56:12.960Z,35.9831667,-117.402,1.93,2.04,ml,30,52,0.1332,0.17,ci,ci39023887,2020-01-05T03:06:47.980Z,"24km N of Searles Valley, CA",earthquake,0.3,0.74,0.143,25,automatic,ci,ci
+2020-01-05T02:55:27.305Z,62.4415,-151.1682,82.8,2.3,ml,,,,0.37,ak,ak0208b7g5n,2020-01-05T03:08:49.040Z,"56km WNW of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-01-05T02:43:37.257Z,59.8872,-139.7662,0,1.7,ml,,,,0.92,ak,ak0208b4wcd,2020-01-05T03:03:10.856Z,"37km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-05T02:40:42.780Z,37.4785004,-118.8125,6.54,2.09,md,26,118,0.1121,0.03,nc,nc73323781,2020-01-05T03:25:03.462Z,"15km SW of Toms Place, CA",earthquake,0.34,1.57,0.24,25,automatic,nc,nc
+2020-01-05T02:36:53.500Z,36.6468315,-121.2689972,8.36,1.64,md,13,146,0.05136,0.06,nc,nc73323771,2020-01-05T03:10:03.525Z,"17km SSE of Tres Pinos, CA",earthquake,0.5,0.93,0.3,11,automatic,nc,nc
+2020-01-05T02:32:05.800Z,35.7411667,-117.5413333,6.79,0.58,ml,12,140,0.08732,0.13,ci,ci39023871,2020-01-05T02:35:49.200Z,"13km WSW of Searles Valley, CA",earthquake,0.42,1.09,0.173,7,automatic,ci,ci
+2020-01-05T02:20:34.883Z,63.1137,-150.8333,123.2,2.4,ml,,,,0.52,ak,ak0208azz2x,2020-01-05T07:03:11.223Z,"95km NNW of Talkeetna, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2020-01-05T02:10:21.550Z,22.7435,143.139,107.15,5.1,mww,,45,4.419,0.96,us,us70006uvz,2020-01-05T04:13:40.495Z,"291km SE of Iwo Jima, Japan",earthquake,7.4,6,0.078,16,reviewed,us,us
+2020-01-05T02:00:29.810Z,33.0491667,-116.4265,3.52,0.86,ml,16,87,0.07832,0.27,ci,ci39023863,2020-01-05T02:04:14.868Z,"17km ESE of Julian, CA",earthquake,0.53,2.25,0.241,10,automatic,ci,ci
+2020-01-05T01:58:17.610Z,60.7534,-151.5126,33.7,2.1,ml,,,,0.55,ak,ak0208ammy9,2020-01-05T02:10:14.641Z,"14km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-01-05T01:53:33.320Z,33.3306667,-116.4046667,7.14,0.71,ml,25,69,0.06317,0.2,ci,ci39023855,2020-01-05T01:57:22.612Z,"9km NNW of Borrego Springs, CA",earthquake,0.29,0.68,0.115,16,automatic,ci,ci
+2020-01-05T01:49:16.569Z,65.3797,-153.4296,0,1.6,ml,,,,0.33,ak,ak0208akpfw,2020-01-05T02:03:11.565Z,"67km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-01-05T01:31:32.510Z,34.0058333,-116.8018333,18.71,0.72,ml,16,75,0.02966,0.13,ci,ci39023847,2020-01-05T01:35:13.603Z,"10km N of Cabazon, CA",earthquake,0.33,0.65,0.108,16,automatic,ci,ci
+2020-01-05T01:31:05.360Z,36.0408333,-117.8646667,2.17,1.05,ml,15,135,0.03906,0.13,ci,ci39023839,2020-01-05T01:34:42.949Z,"8km E of Coso Junction, CA",earthquake,0.26,0.26,0.177,17,automatic,ci,ci
+2020-01-05T01:30:31.700Z,36.5426674,-89.6334991,8.81,2.18,md,19,54,0.09259,0.18,nm,nm60272642,2020-01-05T01:34:56.440Z,"5km SSW of Lilbourn, Missouri",earthquake,0.45,1.26,0.3,12,reviewed,nm,nm
+2020-01-05T01:28:31.900Z,35.8268333,-117.6293333,8.74,2.15,ml,30,53,0.02813,0.15,ci,ci39023831,2020-01-05T01:39:26.120Z,"21km WNW of Searles Valley, CA",earthquake,0.21,0.51,0.189,24,automatic,ci,ci
+2020-01-05T01:27:45.751Z,-20.513,-177.6658,519.66,4.6,mb,,113,4.895,0.71,us,us70006uvm,2020-01-05T01:46:35.040Z,"108km E of Ndoi Island, Fiji",earthquake,8.2,10.4,0.069,62,reviewed,us,us
+2020-01-05T01:20:46.120Z,35.6666667,-117.4748333,8.29,1.25,ml,24,58,0.06846,0.2,ci,ci39023823,2020-01-05T01:31:20.460Z,"13km SSW of Searles Valley, CA",earthquake,0.35,0.8,0.138,16,automatic,ci,ci
+2020-01-05T01:13:45.690Z,38.8246651,-122.8111649,2.34,0.56,md,10,65,0.001528,0.01,nc,nc73323756,2020-01-05T01:45:04.012Z,"7km NW of The Geysers, CA",earthquake,0.32,0.88,,1,automatic,nc,nc
+2020-01-05T01:10:37.776Z,62.4191,-148.3853,20.1,1.6,ml,,,,0.38,ak,ak0208ace5d,2020-01-05T02:03:10.413Z,"73km NNE of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-01-05T00:55:52.010Z,35.9825,-117.4021667,1.35,2.63,ml,34,52,0.1328,0.17,ci,ci39023815,2020-01-05T01:07:12.400Z,"24km N of Searles Valley, CA",earthquake,0.23,0.61,0.143,25,automatic,ci,ci
+2020-01-05T00:52:04.610Z,33.1025,-116.5053333,9.66,0.74,ml,22,62,0.08033,0.2,ci,ci39023807,2020-01-05T00:55:41.399Z,"9km ENE of Julian, CA",earthquake,0.41,0.99,0.109,11,automatic,ci,ci
+2020-01-05T00:26:01.800Z,33.4818333,-116.4263333,16.72,0.51,ml,20,71,0.1318,0.17,ci,ci39023791,2020-01-05T00:29:48.533Z,"23km SSW of La Quinta, CA",earthquake,0.41,0.75,0.133,9,automatic,ci,ci
+2020-01-05T00:23:17.290Z,35.6413333,-117.61,9.67,0.5,ml,15,98,0.03848,0.15,ci,ci39023775,2020-01-05T00:26:49.209Z,"6km ENE of Ridgecrest, CA",earthquake,0.46,0.83,0.04,6,automatic,ci,ci
+2020-01-05T00:17:23.000Z,37.4535,-114.0247,11.6,1.5,ml,8,124.96,0.592,0.3,nn,nn00714633,2020-01-05T00:42:56.100Z,"30km WSW of Enterprise, Utah",earthquake,,2.8,,,automatic,nn,nn
+2020-01-05T00:09:47.635Z,64.9746,-147.4258,0,1.5,ml,,,,1.17,ak,ak02089qrm8,2020-01-05T01:04:27.490Z,"20km NE of Fairbanks, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-01-05T00:04:53.010Z,35.7186667,-117.5086667,1.05,0.71,ml,12,144,0.1083,0.17,ci,ci39023759,2020-01-05T00:08:39.360Z,"11km WSW of Searles Valley, CA",earthquake,0.53,0.9,0.072,8,automatic,ci,ci
+2020-01-04T23:59:52.460Z,33.2203333,-116.7511667,11.47,0.35,ml,15,88,0.08963,0.3,ci,ci39023751,2020-01-05T00:03:38.246Z,"3km SSE of Lake Henshaw, CA",earthquake,0.86,1.5,0.081,5,automatic,ci,ci
+2020-01-04T23:59:05.020Z,35.8688333,-117.6836667,12.98,0.52,ml,9,86,0.0834,0.17,ci,ci39023735,2020-01-05T00:02:35.448Z,"22km ESE of Little Lake, CA",earthquake,0.69,1.13,0.085,5,automatic,ci,ci
+2020-01-04T23:50:41.727Z,39.6451,-121.9367,1.8,1.2,ml,5,306.15,1.025,0.211,nn,nn00714657,2020-01-05T02:59:10.976Z,"11km W of Durham, California",earthquake,,4.5,0,1,reviewed,nn,nn
+2020-01-04T23:33:32.090Z,35.6238333,-117.572,14.06,0.91,ml,14,114,0.002959,0.3,ci,ci39023727,2020-01-04T23:36:58.916Z,"9km E of Ridgecrest, CA",earthquake,0.79,1.26,0.127,10,automatic,ci,ci
+2020-01-04T23:32:24.550Z,19.1793327,-155.4223328,35.33,1.77,md,34,164,0.0445,0.12,hv,hv71318297,2020-01-04T23:35:48.440Z,"6km ESE of Pahala, Hawaii",earthquake,0.62,0.75,0.1,5,automatic,hv,hv
+2020-01-04T23:22:58.166Z,58.0654,-153.3203,64.9,2.3,ml,,,,0.71,ak,ak0206zz75p,2020-01-05T00:03:11.385Z,"54km NW of Kodiak Station, Alaska",earthquake,,1,,,automatic,ak,ak
+2020-01-04T23:14:36.740Z,35.8535,-117.668,4.21,0.99,ml,16,88,0.06856,0.16,ci,ci39023719,2020-01-04T23:18:19.834Z,"23km ESE of Little Lake, CA",earthquake,0.31,0.77,0.163,13,automatic,ci,ci
+2020-01-04T23:13:01.995Z,65.0835,-146.728,14.1,1.1,ml,,,,0.28,ak,ak0206zx5cq,2020-01-05T00:03:10.808Z,"47km NE of North Pole, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2020-01-04T23:00:57.630Z,36.81772232,-98.49391174,2.438377857,1.79,ml,12,173.5693665,0.3033767641,0.2539784592,ok,ok2020ahgb,2020-01-04T23:04:24.418Z,"14km WNW of Cherokee, Oklahoma",earthquake,5.488790519,3.652520827,,9,automatic,ok,ok
+2020-01-04T22:57:38.088Z,38.2814,-119.0905,14.4,1.6,ml,6,190.4,0.283,0.107,nn,nn00714656,2020-01-05T02:56:06.729Z,"12km ENE of Bridgeport, California",earthquake,,6.3,0.36,5,reviewed,nn,nn
+2020-01-04T22:55:47.363Z,-8.6349,112.5608,81.15,4.7,mb,,41,1.582,0.96,us,us70006utn,2020-01-05T02:45:31.610Z,"30km SSW of Krajan Tambakrejo, Indonesia",earthquake,7.8,7.2,0.079,48,reviewed,us,us
+2020-01-04T22:49:32.133Z,64.896,-162.2744,0,1.9,ml,,,,0.96,ak,ak0206zjhtw,2020-01-04T23:03:11.091Z,"134km NNW of Unalakleet, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-01-04T22:46:20.294Z,59.4387,-151.8996,46.4,1.5,ml,,,,0.54,ak,ak0206zitsd,2020-01-05T07:03:14.351Z,"30km SW of Homer, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2020-01-04T22:46:02.989Z,57.7012,-155.0516,68.3,1.9,ml,,,,0.4,ak,ak0206zinir,2020-01-05T07:03:10.227Z,"66km WNW of Larsen Bay, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2020-01-04T22:36:58.152Z,-28.6276,-176.9263,10,4.9,mb,,115,1.072,0.79,us,us70006utc,2020-01-04T22:55:43.040Z,"118km NE of Raoul Island, New Zealand",earthquake,7.7,1.9,0.112,25,reviewed,us,us
+2020-01-04T22:36:10.530Z,35.868,-117.6715,9.28,0.77,ml,18,91,0.07958,0.11,ci,ci39023703,2020-01-04T22:39:53.539Z,"22km ESE of Little Lake, CA",earthquake,0.25,0.49,0.16,10,automatic,ci,ci
+2020-01-04T22:21:23.520Z,35.9188333,-117.7366667,6,1.13,ml,17,50,0.07248,0.13,ci,ci39023679,2020-01-04T22:24:52.459Z,"15km E of Little Lake, CA",earthquake,0.23,0.64,0.138,15,automatic,ci,ci
+2020-01-04T22:11:29.119Z,37.9218,26.3675,10,4.2,mb,,37,1.816,0.97,us,us70006usw,2020-01-05T10:01:26.410Z,"33km WNW of Neon Karlovasion, Greece",earthquake,2.7,1.9,0.215,6,reviewed,us,us
+2020-01-04T22:10:29.446Z,-35.059,-71.1128,102.78,4.4,mb,,81,0.38,0.54,us,us70006usv,2020-01-04T22:27:36.040Z,"13km SE of Curico, Chile",earthquake,5.4,4.3,0.179,9,reviewed,us,us
+2020-01-04T22:06:45.550Z,49.491,-120.554666666667,-0.37,2.33,ml,9,249,,0.35,uw,uw61565916,2020-01-05T01:11:22.270Z,"4km NW of Princeton, Canada",explosion,2.61,31.61,0.138413824795989,6,reviewed,uw,uw
+2020-01-04T22:03:16.157Z,63.4456,-147.9691,15.4,1.7,ml,,,,1.06,ak,ak0206z9lka,2020-01-04T23:03:10.510Z,"49km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-01-04T21:59:22.920Z,36.5545006,-89.6415024,9.68,2.69,md,29,42,0.1049,0.3,nm,nm60272612,2020-01-05T08:56:40.703Z,"6km SW of Lilbourn, Missouri",earthquake,0.47,1.57,0.48,24,reviewed,nm,nm
+2020-01-04T21:54:44.710Z,35.697,-117.524,6.95,1.62,ml,26,56,0.08333,0.16,ci,ci39023663,2020-01-04T21:58:31.295Z,"13km SW of Searles Valley, CA",earthquake,0.28,0.69,0.163,26,automatic,ci,ci
+2020-01-04T21:42:24.930Z,17.911,-66.816,7,2.53,md,14,214,0.09,0.09,pr,pr2020004011,2020-01-04T22:08:06.229Z,"9km S of Indios, Puerto Rico",earthquake,0.63,0.34,0.37,12,reviewed,pr,pr
+2020-01-04T21:34:36.150Z,35.906,-117.7183333,2.78,0.14,ml,7,97,0.06921,0.13,ci,ci39023647,2020-01-04T21:38:08.178Z,"17km ESE of Little Lake, CA",earthquake,0.29,0.5,0.119,3,automatic,ci,ci
+2020-01-04T21:29:17.672Z,60.6478,-142.7437,12.9,1.5,ml,,,,0.88,ak,ak0206ytqos,2020-01-04T22:03:10.733Z,"67km NNW of Cape Yakataga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-01-04T21:19:12.490Z,35.671,-117.4983333,4.68,0.96,ml,16,77,0.07137,0.17,ci,ci39023639,2020-01-04T21:22:56.082Z,"14km SW of Searles Valley, CA",earthquake,0.35,0.81,0.047,11,automatic,ci,ci
+2020-01-04T21:08:55.610Z,36.8335,-117.4637,2.7,1.4,ml,26,104.87,0.182,0.32,nn,nn00714631,2020-01-04T21:56:22.981Z,"59km ENE of Lone Pine, California",earthquake,,1.6,,,automatic,nn,nn
+2020-01-04T21:05:54.590Z,38.8274994,-122.8106689,1.37,0.86,md,19,55,0.004125,0.02,nc,nc73323716,2020-01-04T22:22:02.775Z,"7km NW of The Geysers, CA",earthquake,0.19,0.37,0.21,4,automatic,nc,nc
+2020-01-04T21:05:44.870Z,38.7808342,-122.7236633,1.5,0.16,md,7,90,0.01049,0.01,nc,nc73323711,2020-01-04T21:55:03.625Z,"3km WNW of Anderson Springs, CA",earthquake,0.46,0.76,0.07,2,automatic,nc,nc
+2020-01-04T21:00:58.510Z,35.7980003,-117.6138306,5.31,1.22,ml,14,194,0.02212,0.11,ci,ci39023623,2020-01-04T21:04:43.966Z,"19km W of Searles Valley, CA",earthquake,0.72,0.89,0.184,6,automatic,ci,ci
+2020-01-04T20:53:28.540Z,35.8956667,-117.6801667,3,0.29,ml,8,82,0.05746,0.07,ci,ci39023607,2020-01-04T20:57:16.128Z,"21km ESE of Little Lake, CA",earthquake,0.31,0.48,0.049,4,automatic,ci,ci
+2020-01-04T20:49:44.582Z,61.6693,-151.6973,75.9,2,ml,,,,0.87,ak,ak0206ycnms,2020-01-04T21:03:11.063Z,"88km W of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-01-04T20:45:04.320Z,33.0541667,-116.4423333,12.29,0.86,ml,10,208,0.2144,0.31,ci,ci39023599,2020-01-04T20:48:47.862Z,"15km E of Julian, CA",earthquake,2.12,3.19,0.128,8,automatic,ci,ci
+2020-01-04T20:40:58.850Z,33.5005,-116.7906667,6.12,1.1,ml,45,35,0.01434,0.2,ci,ci39023591,2020-01-04T20:44:41.334Z,"9km NE of Aguanga, CA",earthquake,0.2,0.57,0.147,27,automatic,ci,ci
+2020-01-04T20:22:26.482Z,36.4058342,-98.14138794,4.510947704,1.26,ml,6,158.4411201,0.08146053553,0.06132127857,ok,ok2020ahav,2020-01-04T20:23:26.926Z,"19km SE of Helena, Oklahoma",earthquake,5.446066358,3.689863869,,4,automatic,ok,ok
+2020-01-04T20:14:28.107Z,63.5636,-147.3826,11.2,1.4,ml,,,,0.67,ak,ak0206y549p,2020-01-04T21:03:10.475Z,"80km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-01-04T20:01:38.940Z,33.5924988,-116.8093338,6.56,0.57,ml,20,73,0.04929,0.09,ci,ci39023575,2020-01-04T20:05:19.080Z,"13km WNW of Anza, CA",earthquake,0.38,0.69,0.113,6,automatic,ci,ci
+2020-01-04T20:01:30.150Z,38.7729988,-122.7350006,1.64,0.54,md,7,95,0.01031,0.05,nc,nc73323696,2020-01-04T20:34:03.140Z,"2km ESE of The Geysers, CA",earthquake,0.47,0.69,0.04,2,automatic,nc,nc
+2020-01-04T20:00:56.548Z,-0.9727,23.7422,10,4.5,mb,,67,7.005,0.95,us,us70006urc,2020-01-04T20:19:36.040Z,"211km SSW of Yangambi, Democratic Republic of the Congo",earthquake,7.2,1.9,0.097,32,reviewed,us,us
+2020-01-04T19:19:14.441Z,37.7986,-114.2981,7.7,0.8,ml,5,108.58,0.213,0.2482,nn,nn00714641,2020-01-05T02:19:00.800Z,"19km SE of Pioche, Nevada",earthquake,,3.9,0.33,2,reviewed,nn,nn
+2020-01-04T19:01:43.470Z,59.9935,-153.3685,143.6,2.6,ml,,,,0.72,ak,ak0206xgxkz,2020-01-04T20:03:16.762Z,"64km SSW of Redoubt Volcano, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-04T19:01:32.780Z,35.9831667,-117.3223333,0.93,1.02,ml,18,78,0.09732,0.18,ci,ci39023543,2020-01-04T19:05:09.868Z,"25km NNE of Trona, CA",earthquake,0.44,0.65,0.071,11,automatic,ci,ci
+2020-01-04T18:58:28.900Z,35.7286667,-117.5395,2.65,1.24,ml,21,71,0.09887,0.19,ci,ci39023535,2020-01-04T19:02:10.674Z,"13km WSW of Searles Valley, CA",earthquake,0.37,0.59,0.169,17,automatic,ci,ci
+2020-01-04T18:56:42.450Z,35.6136667,-117.4508333,8.16,0.67,ml,12,120,0.02865,0.19,ci,ci39023519,2020-01-04T19:00:25.665Z,"18km SSW of Searles Valley, CA",earthquake,0.6,0.61,0.087,7,automatic,ci,ci
+2020-01-04T18:51:42.380Z,35.8323333,-117.6395,8.83,0.87,ml,16,105,0.03793,0.14,ci,ci39023511,2020-01-04T18:55:19.638Z,"22km WNW of Searles Valley, CA",earthquake,0.36,0.56,0.297,8,automatic,ci,ci
+2020-01-04T18:38:20.684Z,34.96904373,-97.69104004,3.949620962,2.09,ml,22,59.88839722,0.09280565381,0.729423681,ok,ok2020agxk,2020-01-04T18:41:02.696Z,"16km NNW of Lindsay, Oklahoma",earthquake,2.547061135,1.873293149,,18,automatic,ok,ok
+2020-01-04T18:27:59.874Z,38.408,-118.8928,19.3,0.8,ml,5,295.55,0.342,0.0532,nn,nn00714642,2020-01-05T02:19:01.388Z,"26km WSW of Hawthorne, Nevada",earthquake,,8.5,0.35,3,reviewed,nn,nn
+2020-01-04T18:23:33.249Z,31.1559,-103.2311,1.25,2.9,ml,,51,0.248,0.2,us,us70006uqn,2020-01-04T20:45:06.040Z,"38km SE of Pecos, Texas",earthquake,0.9,2.2,0.081,104,reviewed,us,us
+2020-01-04T18:18:06.380Z,38.7996674,-122.8153305,2.57,0.32,md,13,80,0.01419,0.04,nc,nc73323686,2020-01-04T18:49:02.519Z,"6km WNW of The Geysers, CA",earthquake,0.32,0.74,0.24,2,automatic,nc,nc
+2020-01-04T18:15:45.757Z,59.7231,-151.9074,54.2,2.6,ml,,,,0.6,ak,ak0206wyi5a,2020-01-04T19:03:10.684Z,"7km SW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2020-01-04T18:15:33.712Z,38.2614,-118.4804,6.7,1,ml,5,186.28,0.022,0.0907,nn,nn00714659,2020-01-05T03:02:15.935Z,"31km SSE of Hawthorne, Nevada",earthquake,,2.9,0.33,5,reviewed,nn,nn
+2020-01-04T18:09:06.865Z,66.4239,-156.9932,5.2,1.6,ml,,,,1.35,ak,ak0206wx4yh,2020-01-04T19:03:11.266Z,"54km S of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-01-04T18:06:48.080Z,33.6053333,-117.2183333,13.32,0.84,ml,15,169,0.2589,0.27,ci,ci39023503,2020-01-04T18:10:50.425Z,"6km N of Murrieta, CA",earthquake,1.3,3.94,0.347,14,automatic,ci,ci
+2020-01-04T18:06:47.370Z,33.2216667,-116.7405,9.95,0.99,ml,33,38,0.02093,0.16,ci,ci39023495,2020-01-04T18:10:34.778Z,"3km SE of Lake Henshaw, CA",earthquake,0.25,0.47,0.182,28,automatic,ci,ci
+2020-01-04T17:53:51.765Z,62.6186,-151.2145,84.9,1.6,ml,,,,0.57,ak,ak0206wl82e,2020-01-04T18:03:12.100Z,"65km WNW of Talkeetna, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2020-01-04T17:42:31.185Z,60.5642,-142.7462,4.4,2.4,ml,,,,0.79,ak,ak0206witqu,2020-01-04T18:03:11.504Z,"58km NNW of Cape Yakataga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-01-04T17:33:12.474Z,63.544,-147.09,0,1.4,ml,,,,0.44,ak,ak0206wguug,2020-01-04T18:03:10.939Z,"86km SW of Delta Junction, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-01-04T17:31:01.240Z,19.1940002,-155.4208374,32.87,1.85,md,37,162,0.04857,0.11,hv,hv71317867,2020-01-04T17:34:09.380Z,"6km ESE of Pahala, Hawaii",earthquake,0.64,0.92,0.09,8,automatic,hv,hv
+2020-01-04T17:20:51.537Z,62.1922,-149.0028,36,1.7,ml,,,,0.36,ak,ak0206we5jw,2020-01-04T18:03:10.328Z,"44km N of Sutton-Alpine, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2020-01-04T17:06:35.419Z,36.41563034,-98.13291168,2.259961605,2.38,ml,61,64.4013586,0.1498190016,0.5799599125,ok,ok2020aguj,2020-01-04T17:09:08.607Z,"18km SE of Helena, Oklahoma",earthquake,1.553650137,1.337247654,,46,automatic,ok,ok
+2020-01-04T17:02:33.068Z,40.0253,-120.8092,6.6,1.4,ml,6,177.39,0.062,0.2145,nn,nn00714643,2020-01-05T02:25:13.265Z,"12km NE of East Quincy, California",earthquake,,2.3,0,1,reviewed,nn,nn
+2020-01-04T16:57:01.410Z,17.9268,-66.8201,8,2.25,md,12,221,0.0763,0.17,pr,pr2020004010,2020-01-04T17:22:49.309Z,"7km S of Indios, Puerto Rico",earthquake,0.52,0.58,0.19,11,reviewed,pr,pr
+2020-01-04T16:51:11.850Z,36.6455002,-121.2561646,4.57,2.01,md,25,135,0.05839,0.07,nc,nc73323671,2020-01-04T17:33:04.095Z,"16km NW of Pinnacles, CA",earthquake,0.27,0.96,0.23,23,automatic,nc,nc
+2020-01-04T16:48:25.160Z,33.9251667,-116.5135,8.77,0.95,ml,10,173,0.2532,0.26,ci,ci39023463,2020-01-04T16:52:09.179Z,"4km NE of Garnet, CA",earthquake,1.75,31.61,0.18,6,automatic,ci,ci
+2020-01-04T16:46:26.271Z,35.02117157,-97.73345184,3.73050642,1.91,ml,14,75.46603394,0.1246108711,0.9855957338,ok,ok2020agts,2020-01-04T16:49:08.865Z,"14km SSW of Blanchard, Oklahoma",earthquake,3.667525059,2.54295937,,10,automatic,ok,ok
+2020-01-04T16:42:17.570Z,34.4148333,-119.5475,9.67,1.54,ml,21,154,0.03049,0.31,ci,ci39023455,2020-01-04T16:46:08.453Z,"3km WNW of Carpinteria, CA",earthquake,0.74,1.21,0.166,22,automatic,ci,ci
+2020-01-04T16:19:52.500Z,35.697,-117.5271667,6.16,0.69,ml,14,132,0.08223,0.18,ci,ci39023439,2020-01-04T16:23:43.828Z,"14km SW of Searles Valley, CA",earthquake,0.5,1.47,0.106,8,automatic,ci,ci
+2020-01-04T16:19:51.054Z,61.9086,-151.202,81.1,2.2,ml,,,,0.73,ak,ak0206vsi7n,2020-01-04T17:03:10.545Z,"63km WNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2020-01-04T16:11:39.335Z,59.7988,-151.4221,40.8,2.1,ml,,,,0.8,ak,ak0206vqrk0,2020-01-04T17:03:09.959Z,"9km NW of Fritz Creek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2020-01-04T15:58:11.686Z,62.8995,-148.2523,59.7,1.7,ml,,,,0.84,ak,ak0206vfch7,2020-01-04T16:10:24.727Z,"65km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-01-04T15:54:12.450Z,35.7095,-117.5913333,9.7,0.96,ml,14,117,0.08913,0.12,ci,ci39023423,2020-01-04T15:57:56.132Z,"12km NE of Ridgecrest, CA",earthquake,0.31,0.65,0.129,9,automatic,ci,ci
+2020-01-04T15:37:58.146Z,60.0426,-139.1866,5,3.4,ml,,,,0.65,ak,ak0206vaxyu,2020-01-04T20:06:38.557Z,"64km NNE of Yakutat, Alaska",earthquake,,0,,,reviewed,ak,ak
+2020-01-04T15:35:49.177Z,62.0421,-151.9916,96.5,1.9,ml,,,,0.56,ak,ak0206vahwc,2020-01-04T16:03:11.634Z,"102km WSW of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2020-01-04T15:32:25.622Z,60.2472,-151.152,56.9,1.8,ml,,,,0.22,ak,ak0206v9sxt,2020-01-04T16:03:11.030Z,"15km SSE of Cohoe, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2020-01-04T15:26:16.846Z,65.003,-148.7822,9.6,1.4,ml,,,,0.52,ak,ak0206v8hz2,2020-01-04T16:03:10.458Z,"40km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-04T15:20:41.206Z,60.6763,-142.8346,13,0.6,ml,,,,0.5,ak,ak0206v78n9,2020-01-04T20:03:15.831Z,"71km NNW of Cape Yakataga, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2020-01-04T15:19:28.220Z,33.4873333,-116.7898333,5.98,1.62,ml,62,23,0.02647,0.19,ci,ci39023407,2020-01-04T15:30:26.050Z,"9km NE of Aguanga, CA",earthquake,0.16,0.54,0.131,27,automatic,ci,ci
+2020-01-04T15:17:45.080Z,35.3765,-118.4686667,1.82,1.32,ml,14,74,0.09359,0.16,ci,ci39023399,2020-01-04T15:21:25.893Z,"24km S of Bodfish, CA",earthquake,0.37,0.62,0.21,12,automatic,ci,ci
+2020-01-04T15:13:13.490Z,35.717,-117.579,6.94,0.42,ml,12,122,0.0951,0.16,ci,ci39023391,2020-01-04T15:16:48.946Z,"14km NE of Ridgecrest, CA",earthquake,0.45,1.04,0.102,7,automatic,ci,ci
+2020-01-04T15:10:24.590Z,38.7983322,-122.8115005,3.93,0.36,md,8,77,0.01197,0.02,nc,nc73323656,2020-01-04T16:55:03.860Z,"5km WNW of The Geysers, CA",earthquake,0.44,1.38,0.23,2,automatic,nc,nc
+2020-01-04T14:57:29.300Z,17.8745,-66.804,4,2.55,md,14,224,0.1256,0.12,pr,pr2020004009,2020-01-05T08:34:02.040Z,"12km SSE of Indios, Puerto Rico",earthquake,0.64,0.39,0.24,14,reviewed,pr,pr
+2020-01-04T14:40:16.830Z,35.7738333,-117.5993333,4.16,2.45,ml,32,59,0.04184,0.2,ci,ci39023383,2020-01-04T14:51:14.190Z,"18km W of Searles Valley, CA",earthquake,0.25,0.62,0.128,25,automatic,ci,ci
+2020-01-04T14:39:17.137Z,39.7768,-120.1044,8.7,0.8,ml,6,117.18,0.155,0.065,nn,nn00714644,2020-01-05T02:28:18.845Z,"15km NW of Cold Springs, Nevada",earthquake,,3.3,0.23,3,reviewed,nn,nn
+2020-01-04T14:24:19.213Z,61.3819,-150.4877,19,1.3,ml,,,,0.62,ak,ak0206umn41,2020-01-04T15:03:11.170Z,"32km WSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2020-01-04T14:14:11.740Z,35.6443333,-117.4626667,2.64,1.07,ml,12,80,0.05088,0.15,ci,ci39023375,2020-01-04T14:17:52.511Z,"15km SSW of Searles Valley, CA",earthquake,0.51,0.61,0.11,13,automatic,ci,ci
+2020-01-04T14:09:19.680Z,38.8404999,-122.8249969,1.98,0.89,md,9,108,0.008412,0.01,nc,nc73323641,2020-01-04T16:13:03.633Z,"9km WNW of Cobb, CA",earthquake,0.35,1.01,,1,automatic,nc,nc
+2020-01-04T14:02:01.406Z,63.3909,-145.9457,11.5,1.2,ml,,,,0.55,ak,ak0206uhvya,2020-01-04T15:03:10.609Z,"64km SW of Deltana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-04T14:01:04.254Z,61.1209,-148.4322,15,1.6,ml,,,,0.81,ak,ak0206uhohg,2020-01-04T20:03:15.156Z,"41km NNE of Whittier, Alaska",ice quake,,0.4,,,automatic,ak,ak
+2020-01-04T14:00:46.090Z,33.3666667,-116.2641667,10.37,0.56,ml,17,169,0.03826,0.23,ci,ci39023367,2020-01-04T14:04:32.427Z,"16km NE of Borrego Springs, CA",earthquake,0.55,0.74,0.11,10,automatic,ci,ci
+2020-01-04T13:57:43.490Z,33.2213333,-116.7218333,11.48,0.4,ml,17,89,0.03422,0.13,ci,ci39023359,2020-01-04T14:01:25.889Z,"4km ESE of Lake Henshaw, CA",earthquake,0.33,0.41,0.079,4,automatic,ci,ci
+2020-01-04T13:53:14.420Z,35.534,-84.7261667,15.93,2.52,md,21,43,0.1865,0.14,se,se60272552,2020-01-04T16:27:08.040Z,"6km ENE of Decatur, Tennessee",earthquake,0.31,0.82,0.209,21,reviewed,se,se
+2020-01-04T13:52:56.583Z,6.793,-73.0052,162.32,4.7,mb,,96,2.336,0.77,us,us70006upb,2020-01-04T16:43:31.040Z,"11km N of Aratoca, Colombia",earthquake,10.2,9.5,0.03,332,reviewed,us,us
+2020-01-04T13:48:32.430Z,35.7866667,-117.591,11.07,0.83,ml,12,131,0.02949,0.16,ci,ci39023351,2020-01-04T13:52:07.827Z,"17km W of Searles Valley, CA",earthquake,0.49,0.67,0.136,9,automatic,ci,ci
+2020-01-04T13:31:54.380Z,33.1131668,-116.4383316,8.12,1.09,ml,30,57,0.1429,0.23,ci,ci39023343,2020-01-04T13:35:35.714Z,"16km ENE of Julian, CA",earthquake,0.41,2.18,0.145,2,automatic,ci,ci
+2020-01-04T13:30:53.966Z,61.5651,-149.8851,33.6,2.5,ml,,,,0.51,ak,ak0206u2kh3,2020-01-04T21:10:26.380Z,"6km NE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2020-01-04T13:29:42.770Z,33.589,-116.81,4.57,0.42,ml,22,63,0.0386,0.17,ci,ci39023335,2020-01-04T13:33:27.561Z,"13km WNW of Anza, CA",earthquake,0.28,0.44,0.184,13,automatic,ci,ci
+2020-01-04T13:29:41.940Z,19.1818333,-155.4466705,35.82,2.18,md,52,140,0.03007,0.13,hv,hv71317722,2020-01-04T13:33:03.910Z,"4km SE of Pahala, Hawaii",earthquake,0.58,0.68,0.13,18,automatic,hv,hv
+2020-01-04T13:28:46.850Z,33.5,-116.7851667,6.62,0.38,ml,19,81,0.07651,0.15,ci,ci39023327,2020-01-04T13:32:14.695Z,"10km NE of Aguanga, CA",earthquake,0.25,0.79,0.121,13,automatic,ci,ci
+2020-01-04T13:26:40.890Z,37.0198,-117.5322,0.8,0.6,ml,10,187.5,0.135,0.38,nn,nn00714623,2020-01-04T14:41:17.544Z,"65km NE of Lone Pine, California",earthquake,,24.1,,,automatic,nn,nn
+2020-01-04T13:26:06.043Z,31.6298,-109.0939,5,2.8,ml,,98,0.299,1.09,us,us70006up2,2020-01-04T16:16:58.040Z,"53km NE of Douglas, Arizona",earthquake,3.9,2,0.066,30,reviewed,us,us
+2020-01-04T13:22:53.380Z,35.6706667,-117.4855,2.37,0.84,ml,14,135,0.07113,0.17,ci,ci39023319,2020-01-04T13:26:27.653Z,"13km SW of Searles Valley, CA",earthquake,0.42,0.55,0.111,8,automatic,ci,ci
+2020-01-04T13:15:58.200Z,32.9586667,-116.3993333,11.63,0.93,ml,21,65,0.08077,0.22,ci,ci39023311,2020-01-04T13:19:40.082Z,"20km NE of Pine Valley, CA",earthquake,0.37,1.02,0.24,11,automatic,ci,ci
+2020-01-04T13:12:53.166Z,61.5304,-149.9039,38.9,1.4,ml,,,,0.7,ak,ak0206typj8,2020-01-04T14:03:10.435Z,"2km ENE of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2020-01-04T13:11:07.560Z,35.8115,-117.6393333,2.97,1.17,ml,16,63,0.03426,0.16,ci,ci39023303,2020-01-04T13:14:53.057Z,"21km N of Ridgecrest, CA",earthquake,0.3,0.5,0.12,15,automatic,ci,ci
+2020-01-04T13:06:30.210Z,35.9153333,-117.7371667,9.98,0.81,ml,9,112,0.07366,0.06,ci,ci39023295,2020-01-04T13:10:00.653Z,"15km E of Little Lake, CA",earthquake,0.57,0.76,0.097,5,automatic,ci,ci
+2020-01-04T13:03:59.050Z,35.8255,-117.6515,8.28,0.62,ml,9,110,0.04495,0.14,ci,ci39023287,2020-01-04T13:07:30.725Z,"23km N of Ridgecrest, CA",earthquake,0.66,1.15,0.257,5,automatic,ci,ci
+2020-01-04T12:55:00.480Z,36.9468346,-121.4358368,2.51,1.46,md,11,115,0.04448,0.18,nc,nc73323631,2020-01-04T15:20:03.330Z,"12km NNW of Hollister, CA",earthquake,0.73,3.82,0.18,10,automatic,nc,nc
+2020-01-04T12:39:06.013Z,61.3968,-150.0837,38,1.5,ml,,,,0.34,ak,ak0206tiymh,2020-01-04T13:03:11.821Z,"15km SSW of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2020-01-04T12:34:06.770Z,46.8885,-112.5168333,15.7,1.28,ml,7,116,0.117,0.03,mb,mb80377119,2020-01-04T15:17:44.550Z,"14km ESE of Lincoln, Montana",earthquake,0.36,0.72,0.014,2,reviewed,mb,mb
+2020-01-04T12:28:19.000Z,38.8364983,-122.8085022,1.93,0.56,md,11,79,0.01314,0.01,nc,nc73323626,2020-01-04T14:50:03.124Z,"8km WNW of Cobb, CA",earthquake,0.3,1,,1,automatic,nc,nc
+2020-01-04T12:28:04.761Z,59.9026,-152.7415,99.3,2.1,ml,,,,0.49,ak,ak0206tglmu,2020-01-04T13:03:11.240Z,"52km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
